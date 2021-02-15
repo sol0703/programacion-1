@@ -10,9 +10,11 @@ edad = 19
 estatura = 1.63
 peso = 65
 NOMBRE = "Sara Osorno"
+# mirar si la persona es mayor de 18 años
 print ("#"*15,"Mayor Edad", "#"*15)
 isMayorEdad = edad >= 18
 print (isMayorEdad)
+# calcular si la estatura  era menor de la del promedio
 print ("#"*15, "Bajo la Estatura promedio", "#"*15)
 isMayorEstatura = estatura < 1.70
 print (isMayorEstatura)
