@@ -16,3 +16,4 @@ dividir=numeroP/numeroL
 print(f"la dividir dio {dividir} exitosamente")
 exponente=numeroP**numeroL
 print(f"la exponente dio {exponente} exitosamente")
+
